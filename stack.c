@@ -1,8 +1,8 @@
 //
-// Created by flasque on 19/10/2024.
+// Created by flasque on 19/10/2024
 //
 
-#include <malloc.h>
+#include <stdlib.h>
 #include <assert.h>
 #include "stack.h"
 
